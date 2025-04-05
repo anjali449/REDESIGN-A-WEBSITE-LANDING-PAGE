@@ -17,3 +17,7 @@ This task is about redesigning an exsisting wbsit landing page.here i redesi11g1
 before:
 
 ![Image](https://github.com/user-attachments/assets/33180c47-f8f7-42cf-8934-f55b9f3ee419)
+
+after:
+
+https://www.figma.com/design/dlagtZRSMrG8v0ROqqHNj4/redesigned_Zepto_landing_page?node-id=7-1295&t=ymtGMcYm3ewsaeHZ-1
